@@ -1,14 +1,36 @@
 #svg-demo{
     display: grid;
-    grid-template-columns: auto 50vw auto;
+    grid-template-columns: auto 80vw auto;
     grid-template-areas: ". svg .";
+    height: 100vh;
+
+    @include md{
+        grid-template-columns: auto 70vw auto;
+    }
+
+    @include lg{
+        grid-template-columns: auto 60vw auto;
+    }
+
+    @include xl{
+        grid-template-columns: auto 50vw auto;
+    }
 
     >div{
         grid-area: svg;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
 
 
         svg{
+            // width: 100%;
+            border: 1px solid red;
 
+            // .same{
+            //     fill: "#FFF";
+            // }
         }
     }
 }

@@ -419,9 +419,32 @@ textarea {
 ============= */
 #svg-demo {
   display: grid;
-  grid-template-columns: auto 50vw auto;
+  grid-template-columns: auto 80vw auto;
   grid-template-areas: ". svg .";
+  height: 100vh;
+}
+@media (min-width: 768px) {
+  #svg-demo {
+    grid-template-columns: auto 70vw auto;
+  }
+}
+@media (min-width: 992px) {
+  #svg-demo {
+    grid-template-columns: auto 60vw auto;
+  }
+}
+@media (min-width: 1200px) {
+  #svg-demo {
+    grid-template-columns: auto 50vw auto;
+  }
 }
 #svg-demo > div {
   grid-area: svg;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+#svg-demo > div svg {
+  border: 1px solid red;
 }

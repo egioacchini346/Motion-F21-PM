@@ -9,6 +9,71 @@
   ],
   "creatorBuild" : "34214",
   "files" : {
+    "\/assets\/flat-robots-collection\/209837-P08AK6-393.ai" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/flat-robots-collection\/209837-P08AK6-393.ai",
+      "oF" : 0
+    },
+    "\/assets\/flat-robots-collection\/209837-P08AK7-880.eps" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/flat-robots-collection\/209837-P08AK7-880.eps",
+      "oF" : 0
+    },
+    "\/assets\/flat-robots-collection\/209837-P08AK8-605.jpg" : {
+      "ft" : 16384,
+      "iS" : 390863,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/flat-robots-collection\/209837-P08AK8-605.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/flat-robots-collection\/License free.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/flat-robots-collection\/License free.txt",
+      "oF" : 0
+    },
+    "\/assets\/flat-robots-collection\/License premium.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/flat-robots-collection\/License premium.txt",
+      "oF" : 0
+    },
+    "\/assets\/robot.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/robot.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/assets\/svg-demo-2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/svg-demo-2.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,

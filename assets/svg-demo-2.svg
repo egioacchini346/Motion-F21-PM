@@ -1,0 +1,9 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="svg-demo-2">
+<rect width="1440" height="900" fill="white"/>
+<circle id="green-ball-1" cx="358" cy="341" r="212" fill="#80F226"/>
+<circle id="green-ball-2" cx="796" cy="182" r="102" fill="#80F226"/>
+<circle id="green-ball-3" cx="575.5" cy="678.5" r="68.5" fill="#80F226"/>
+<path id="Star 1" d="M1083 341L1131.72 490.943H1289.38L1161.83 583.613L1210.55 733.557L1083 640.887L955.451 733.557L1004.17 583.613L876.621 490.943H1034.28L1083 341Z" fill="#9B1E1E"/>
+</g>
+</svg>
