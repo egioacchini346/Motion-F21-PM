@@ -31,6 +31,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/deploy\/img\/header\/svg\/robot.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/header\/svg\/robot.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/img\/hero\/hero.jpg" : {
       "ft" : 16384,
       "iS" : 488564,
