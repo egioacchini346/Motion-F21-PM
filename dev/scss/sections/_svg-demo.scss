@@ -1,0 +1,14 @@
+#svg-demo{
+    display: grid;
+    grid-template-columns: auto 50vw auto;
+    grid-template-areas: ". svg .";
+
+    >div{
+        grid-area: svg;
+
+
+        svg{
+
+        }
+    }
+}
