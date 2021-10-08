@@ -1,0 +1,22 @@
+#hiding{
+    display: grid;
+    grid-template-columns: auto 95vw auto;
+    grid-template-areas: ". hiding .";
+    // height: 100vh;
+
+    >div{
+        grid-area: hiding;
+        height: 100vh;
+        background-color: $black;
+
+        section{
+            overflow: hidden;
+            h1{
+                color: $white;
+                font-size: rem-calc(120);
+            }
+        }
+        }
+
+        
+}

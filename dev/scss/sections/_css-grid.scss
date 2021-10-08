@@ -1,0 +1,104 @@
+#css-grid{
+
+    // border: 3px solid red;
+    // border: 4px solid green;
+    // height: 50vh;
+
+    // display: flex;
+    // align-items: flex-end;
+    // justify-content: flex-end;
+
+    // display: grid;
+    // grid-template-columns: 33% 33% 33%;
+    // grid-template-columns: repeat(3, 1fr);
+    // grid-template-columns: auto 90vw auto;
+    // grid-template-areas: "c1 c2 c3";
+    // grid-template-columns: auto 1000px auto;
+    // grid-template-areas: 
+    // "c1 c2"
+    // ". c3";
+
+    @include md{
+        align-items: center;
+        justify-content: center;
+        // grid-template-columns: auto 80vw auto;
+        // grid-template-columns: repeat(3, 1fr);
+        // grid-template-areas: "c2 c1 c1";
+    }
+
+    @include lg{
+        align-items: flex-start;
+        justify-content: flex-start;
+        // grid-template-columns: auto 70vw auto;
+        // grid-template-columns: repeat(5, 1fr);
+        // grid-template-areas: ". c1 c2 . c3";
+    }
+
+    @include xl{
+        // grid-template-columns: auto 95vw auto;
+        // grid-template-columns: repeat(4, 1fr);
+        // grid-template-areas: "c1 c2 . c3";
+    }
+
+    h1{
+        font-weight: 300;
+        margin-top: 100px;
+        
+        // height: 100%;
+
+        // font-size: 100px;
+        font-size: rem-calc(100);
+        // text-align: right;
+    }
+
+    p{
+        font-weight: 700;
+        margin-top: 20px;
+        height: 100vh;
+        border: 3px solid purple;
+    }
+
+    #second{
+        font-weight: 300;
+    }
+
+
+    div{
+        height: 100vh;
+        background-color: #0de75a;
+        width: 100%;
+        border: 1px solid red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    // .columns{
+    //     background-color: #8e08af;
+    // }
+
+    // #column-1{
+    //     // grid-area: c1;
+    //     @include md{
+    //         // grid-area: c1;
+    //     }
+       
+    //     background-color: #e7b40d;
+    // }
+
+    // #column-2{
+    //     @include md{
+    //         // grid-area: c2;
+    //     }
+       
+
+    // //    grid-area: c3;
+    // }
+
+    // #column-3{
+    //     @include md{
+    //         // grid-area: c3;
+    //     }
+       
+    // }
+}
