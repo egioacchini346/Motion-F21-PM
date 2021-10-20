@@ -1,11 +1,17 @@
 import { gsap } from "gsap";
+import { GSDevTools } from "gsap/GSDevTools";
+import { DrawSVGPlugin } from "gsap/DrawSVGPlugin";
+
+gsap.registerPlugin(GSDevTools, DrawSVGPlugin);
 
 const mainTL = gsap.timeline();
 
 function ballOne(){
-    const tl =gsap.timeline();
-    tl.to("#ball-1",{duration:1, scale:3});
-    return tl;
+    // const tl =gsap.timeline();
+
+    // tl.to("#outline",{duration:1, drawSVG:"0%"});
+    // tl.to("#ball-1",{duration:1, scale:9});
+    // return tl;
 }
 
 
@@ -15,8 +21,12 @@ function ballTwo(){
     return tl;
 }
 
-mainTL.add(ballTwo())
-        .add(ballOne());
+mainTL.add(ballTwo());
+        // .add(ballOne());
+
+
+
+// GSDevTools.create();
 
 
 
