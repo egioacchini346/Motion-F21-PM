@@ -1,0 +1,17 @@
+<svg width="383" height="207" viewBox="0 0 383 207" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="container">
+<g id="ball-jump">
+<path id="path-2" d="M108 124C108 80.3695 143.37 45 187 45C230.63 45 266 80.3695 266 124" stroke="#98C1D9"/>
+<path id="path-1" d="M29 124C29 80.3695 64.3695 45 108 45C151.63 45 187 80.3695 187 124" stroke="#3D5A80"/>
+<path id="path-3" d="M187 125C187 81.3695 222.37 46 266 46C309.63 46 345 81.3695 345 125" stroke="#E0FBFC"/>
+<circle id="ball-1" cx="29" cy="124" r="24" fill="#3D5A80"/>
+<circle id="ball-2" cx="108" cy="124" r="24" fill="#98C1D9"/>
+<circle id="ball-3" cx="187" cy="124" r="24" fill="#E0FBFC"/>
+</g>
+<g id="progress-bar">
+<rect id="fill" x="19" y="194" width="345" height="11" fill="#EE6C4D"/>
+<rect id="outline" x="20" y="195" width="343" height="11" stroke="white" stroke-width="2"/>
+</g>
+<rect id="blackOutline" x="0.5" y="0.5" width="382" height="182" stroke="black"/>
+</g>
+</svg>

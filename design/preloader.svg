@@ -1,0 +1,21 @@
+<svg width="1152" height="700" viewBox="0 0 1152 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="preloader">
+<rect width="1152" height="700" fill="white"/>
+<rect id="bg" width="1152" height="700" fill="#293241"/>
+<g id="container">
+<g id="ball-jump">
+<path id="path-2" d="M511 360C511 316.37 546.37 281 590 281C633.63 281 669 316.37 669 360" stroke="#98C1D9"/>
+<path id="path-1" d="M432 360C432 316.37 467.37 281 511 281C554.63 281 590 316.37 590 360" stroke="#3D5A80"/>
+<path id="path-3" d="M590 361C590 317.37 625.37 282 669 282C712.63 282 748 317.37 748 361" stroke="#E0FBFC"/>
+<circle id="ball-1" cx="432" cy="360" r="24" fill="#3D5A80"/>
+<circle id="ball-2" cx="511" cy="360" r="24" fill="#98C1D9"/>
+<circle id="ball-3" cx="590" cy="360" r="24" fill="#E0FBFC"/>
+</g>
+<g id="progress-bar">
+<rect id="fill" x="422" y="430" width="345" height="11" fill="#EE6C4D"/>
+<rect id="outline" x="423" y="431" width="343" height="11" stroke="white" stroke-width="2"/>
+</g>
+<rect id="blackOutline" x="403.5" y="236.5" width="382" height="182" stroke="black"/>
+</g>
+</g>
+</svg>
