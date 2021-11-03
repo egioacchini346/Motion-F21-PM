@@ -1,0 +1,13 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="clipPath-1">
+<rect width="1440" height="900" fill="white"/>
+<g id="boxes">
+<rect id="box1" x="397" y="266" width="646" height="74" fill="#003049"/>
+<rect id="box2" x="397" y="340" width="646" height="74" fill="#D62828"/>
+<rect id="box3" x="397" y="487" width="646" height="74" fill="#FCBF49"/>
+<rect id="box4" x="397" y="561" width="646" height="74" fill="#EAE2B7"/>
+<rect id="box5" x="397" y="414" width="646" height="74" fill="#F77F00"/>
+</g>
+<circle id="clipPath" cx="726.5" cy="453.5" r="181.5" fill="#91FF05"/>
+</g>
+</svg>

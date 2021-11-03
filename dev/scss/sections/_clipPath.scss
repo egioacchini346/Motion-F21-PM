@@ -1,0 +1,11 @@
+#clipPath-container{
+    display: grid;
+    grid-template-columns: auto 70vw auto;
+    grid-template-areas: ". clipPath .";
+    >div{
+        grid-area: clipPath;
+        svg{
+
+        }
+    }
+}
