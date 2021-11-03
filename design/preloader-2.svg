@@ -1,0 +1,25 @@
+<svg width="1152" height="700" viewBox="0 0 1152 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="preloader">
+<rect width="1152" height="700" fill="white"/>
+<rect id="bg" width="1152" height="700" fill="#293241"/>
+<g id="container">
+<g id="ball-jump">
+<path id="path-1" d="M432.355 360.355C432.355 316.725 467.725 281.355 511.355 281.355C554.986 281.355 590.355 316.725 590.355 360.355" stroke="#3D5A80"/>
+<path id="path-2" d="M511.355 360.355C511.355 316.725 546.725 281.355 590.355 281.355C633.986 281.355 669.355 316.725 669.355 360.355" stroke="#98C1D9"/>
+<path id="path-3" d="M590.355 361.355C590.355 317.725 625.725 282.355 669.355 282.355C712.986 282.355 748.355 317.725 748.355 361.355" stroke="#E0FBFC"/>
+<circle id="ball-1" cx="432.355" cy="360.355" r="24" fill="#3D5A80"/>
+<path id="star" d="M431 338L436.164 353.893H452.874L439.355 363.715L444.519 379.607L431 369.785L417.481 379.607L422.645 363.715L409.126 353.893H425.836L431 338Z" fill="#EE6C4D"/>
+<circle id="ball-2" cx="511.355" cy="360.355" r="24" fill="#98C1D9"/>
+<path id="star-2" d="M599.312 335.812L589.5 326L579.688 335.812H565.812V349.688L556 359.5L565.812 369.312V383.188H579.688L589.5 393L599.312 383.188H613.188V369.312L623 359.5L613.188 349.688V335.812H599.312Z" fill="#C4C4C4"/>
+<circle id="ball-3" cx="590.355" cy="360.355" r="24" fill="#E0FBFC"/>
+</g>
+<g id="progress-bar">
+<rect id="fill" x="422" y="430" width="345" height="11" fill="#EE6C4D"/>
+<rect id="fill_2" x="422" y="430" width="345" height="11" fill="#EE6C4D"/>
+<rect id="outline" x="423" y="431" width="343" height="11" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<path id="line-1" d="M236 74H816" stroke="white" stroke-width="10"/>
+<line id="line-2" x1="817" y1="132" x2="236" y2="132" stroke="#EE6C4D" stroke-width="10"/>
+</g>
+</svg>
