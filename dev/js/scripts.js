@@ -10,8 +10,9 @@ gsap.registerPlugin(GSDevTools, DrawSVGPlugin, TextPlugin, MotionPathPlugin, Mor
 MorphSVGPlugin.convertToPath("circle, rect, ellipse, line, polygon, polyline");
 
 // gsap.set("#line-2",{scaleX:-1, transformOrigin: "center"});
-
 gsap.set("#progress-bar",{transformOrigin: "center"});
+
+// gsap.set("#ball-1",{x:"+=-100"});
 
 const mainTL = gsap.timeline();
 const aniTime = 0.5;
