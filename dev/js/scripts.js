@@ -82,7 +82,7 @@ mainTL.add(eAnimation())
 // .from("#t-path",{duration:0.25, scaleY:0, ease: "none)"},"-=20%")
 // .fromTo("#t-path",{duration:0.25, drawSVG: "0% 10%"}, {drawSVG:"90% 100%", ease:"none"}, "tAnimation")
 
-// // animate the t cross bar
+// animate the t cross bar
 // .from("#t-cross",{duration:0.5, scaleX:0, ease: "elastic.out(1, 0.3)"}, "tAnimation")
 
 // // snap T back into shape
